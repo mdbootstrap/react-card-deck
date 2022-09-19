@@ -1,8 +1,13 @@
 {
   "name": "@mdbootstrap/react-card-deck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Responsive Card Deck built with Bootstrap 5, React 17 and Material Design 2.0. Bootstrap card-deck with multiple rows and standard breakpoints.",
   "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/card-deck/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-card-deck.git"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
