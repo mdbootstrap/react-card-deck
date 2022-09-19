@@ -12,7 +12,7 @@ In addition to styling the content within cards, Bootstrap includes a few option
 
 Use card groups to render cards as a single, attached element with equal width and height columns. Card groups start off stacked and use `display: flex;` to become attached with uniform dimensions starting at the `sm` breakpoint.
 
-![React Bootstrap Card Deck](https://mdbootstrap.com/img/Marketing/github/card-deck/basic.png)
+![React Bootstrap Card Deck](./assets/basic.png)
 
 ```js
 import React from "react";
